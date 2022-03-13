@@ -10,7 +10,7 @@ Phát triển mô hình là một nhiệm vụ đầy trách nhiệm và đầy 
 
 ## Vật liệu 
 
-* Free flipbook: https://betaandbit.github.io/RML_VE/
+* Free flipbook: https://betaandbit.github.io/RML_VN/
 * Reproducible code snippets: [html](https://htmlpreview.github.io/?https://github.com/BetaAndBit/RML/blob/main/data/modelsXAI.html)
 * Reproducible snippets: [Rmd](data/modelsXAI.Rmd)
 * Data: [covid_spring.csv](data/covid_spring.csv)
